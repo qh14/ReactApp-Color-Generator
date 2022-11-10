@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactApp-Color-Generator/static/css/main.3b456012.css",
+    "main.js": "/ReactApp-Color-Generator/static/js/main.5cf8d56b.js",
+    "static/js/787.cfd8ccb6.chunk.js": "/ReactApp-Color-Generator/static/js/787.cfd8ccb6.chunk.js",
+    "index.html": "/ReactApp-Color-Generator/index.html",
+    "main.3b456012.css.map": "/ReactApp-Color-Generator/static/css/main.3b456012.css.map",
+    "main.5cf8d56b.js.map": "/ReactApp-Color-Generator/static/js/main.5cf8d56b.js.map",
+    "787.cfd8ccb6.chunk.js.map": "/ReactApp-Color-Generator/static/js/787.cfd8ccb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b456012.css",
+    "static/js/main.5cf8d56b.js"
+  ]
+}
